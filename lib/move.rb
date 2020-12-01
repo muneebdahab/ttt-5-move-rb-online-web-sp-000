@@ -10,6 +10,6 @@ def input_to_index(user_input)
        puts = user_input.to_i - 1
 end
 
-def move(board, index, character = "X")
+def move(board, index, character = "Muneeb")
   board[index] = character
 end
