@@ -13,3 +13,4 @@ input_to_index(user_input)
 move(board, index, character = "X")
 
 display_board(board)
+move(board, index, character = "X")
